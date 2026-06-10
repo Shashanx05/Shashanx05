@@ -1,16 +1,8 @@
 # ## Hi 👋, I'm Shashank Garg
 Open Source Contributor | Java Developer | CS Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](A number is odd if its last digit is odd.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/grgshashank/)
 
-Since we need the largest-valued odd substring, we should keep as many digits as possible from the beginning.
-
-So instead of checking all substrings:
-
-Traverse from the end of the string.
-Find the rightmost odd digit.
-Return the substring from index 0 to that position.
-If no odd digit exists, return "".)
 
 ## 🧑‍💻 About Me
 🎓 Pursuing MCA at NIT Jamshedpur<br>💻 I am an enthusiastic Java Spring boot developer<br>🔍 Currently learning  Spring Boot based backend systems<br>🤝  Need help with Real-world DevOps workflows Cloud deployment <br>💬 Ask me about  Java • Spring Boot • Web Dev •MCA @ NIT Jamshedpur<br>⚡ Fun fact I debug more than I sleep ☕💻<br>👯 Open for collaboration on impactful backend projects<br>📫 Reach me at: shashankgrg005@gmail.com
